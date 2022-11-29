@@ -55,7 +55,7 @@ trends = st.container()
 
 
 
-wiki =  pd.read_csv('https://media.githubusercontent.com/media/yunus-shariff/Wiki-Forecasting/main/train_1%20copy.csv')
+wiki =  pd.read_csv('https://raw.githubusercontent.com/yunus-shariff/WIki_streamlit/main/train_1%20copy.csv')
 org_wiki = wiki.copy()
 
 
